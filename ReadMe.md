@@ -8,7 +8,7 @@
 Open `src/myWebsite.doubledot`
 
 ### Syntax
-htmltag>innerText:class:htmltag:class:
+htmltag>innerText:class:htmltag:class
 
 #### Notizen
 1. npm init -y
